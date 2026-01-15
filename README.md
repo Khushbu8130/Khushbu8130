@@ -6,6 +6,11 @@ I am a Computer Science Engineering student from KKCEM, Dhanbad, with hands-on e
 
 I enjoy working at the intersection of software development and emerging technologies, and I constantly challenge myself by solving complex problems and building scalable solutions.
 
+
+---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+
 🧩 What I Do
 
 🚀 Build end-to-end web applications using React, Node.js, Express, MongoDB
@@ -18,6 +23,10 @@ I enjoy working at the intersection of software development and emerging technol
 
 🌱 Learn and apply AI/ML concepts to practical use cases
 
+
+---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+
 🧠 Problem Solving & DSA
 
 ✅ Solved 400+ DSA problems on LeetCode
@@ -28,6 +37,10 @@ I enjoy working at the intersection of software development and emerging technol
 
 🔁 Regularly practice algorithms, data structures, and optimization techniques
 
+
+---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+
 💼 Experience
 
 👩‍💻 Software Developer Intern — Shikharthy Infotech Pvt. Ltd.
@@ -36,16 +49,21 @@ Contributed to production-level features, backend APIs, and frontend components 
 🤖 Upcoming AI/ML Intern — Infosys Springboard
 Focusing on machine learning fundamentals and applying AI techniques to real-world problem statements.
 
+---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+
 🌍 Open Source
 
 🌱 Open Source Contributor in Hacktoberfest and GSSoC
 
 🔧 Contributed to community projects through bug fixes, feature enhancements, and documentation improvements
 
+---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
 🎯 Career Goal
 
 To grow as a software engineer who combines strong problem-solving skills, full-stack development expertise, and AI/ML knowledge to build impactful and scalable products.
 
-📫 Reach me at: your-email@gmail.com
+📫 Reach me at: kumarikhushbu7199@gmail.com
 
-🔗 LinkedIn: your-link
+🔗 LinkedIn: https://www.linkedin.com/in/khushbu-kumari-b727b525a/
