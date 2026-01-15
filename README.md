@@ -24,7 +24,7 @@
 
 
 🚀 About Me
------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 - 🎓 B.Tech CSE student at KKCEM, Dhanbad
 - 💻 Full Stack Developer (MERN Stack)
@@ -36,3 +36,19 @@
 - ⭐ 5-Star Coder on HackerRank
 - 🌍 Open Source Contributor (Hacktoberfest, GSSoC)
 - 📫 Reach me at kumarikhushbu7199@gmail.com
+
+
+---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+## 🛠 Languages & Tools
+---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+![Java](https://img.shields.io/badge/Java-20232A?style=flat&logo=openjdk)
+![JavaScript](https://img.shields.io/badge/JavaScript-20232A?style=flat&logo=javascript)
+![React](https://img.shields.io/badge/React-20232A?style=flat&logo=react)
+![Node.js](https://img.shields.io/badge/Node.js-20232A?style=flat&logo=node.js)
+![Express](https://img.shields.io/badge/Express-20232A?style=flat&logo=express)
+![MongoDB](https://img.shields.io/badge/MongoDB-20232A?style=flat&logo=mongodb)
+![Python](https://img.shields.io/badge/Python-20232A?style=flat&logo=python)
+
+
