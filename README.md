@@ -29,7 +29,7 @@
 - 🎓 B.Tech CSE student at KKCEM, Dhanbad
 - 💻 Full Stack Developer (MERN Stack)
 - 👩‍💻 Former Software Developer Intern at Shikharthy Infotech Pvt. Ltd.
-- 🤖 Upcoming AI/ML Intern at Infosys Springboard
+- 🤖 AI/ML Intern at Infosys Springboard
 - 🧠 400+ DSA problems solved on LeetCode
 - 📘 200+ problems solved on GeeksforGeeks
 - ⭐ 5-Star Coder on HackerRank
