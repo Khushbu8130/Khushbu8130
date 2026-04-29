@@ -15,8 +15,29 @@
   - 400+ problems on **LeetCode**  
   - 200+ problems on **GeeksforGeeks**
 - ⭐ 5★ Coder on **HackerRank**
-- 🌍 Active Open Source Contributor (**Hacktoberfest, GSSoC**)
+- 🌍 Open Source Contributor (**Hacktoberfest, GSSoC**)
 - 📫 Reach me at **kumarikhushbu7199@gmail.com**
+
+---
+
+## 🚀 Featured Projects
+
+- 🔹 **GitHub Project Analyzer**  
+  MERN + AI based app to analyze GitHub profiles and generate insights  
+
+- 🔹 **BookHavan**  
+  MERN stack platform to explore and download engineering books  
+
+- 🔹 **PDF Compressor Web App**  
+  Built using MERN + ILovePDF API for efficient PDF compression  
+
+---
+
+## 🧠 Coding Profiles
+
+- 🔹 LeetCode: 400+ problems solved  
+- 🔹 GeeksforGeeks: 200+ problems solved  
+- 🔹 HackerRank: ⭐⭐⭐⭐⭐  
 
 ---
 
@@ -45,14 +66,6 @@
 
 ---
 
-## 🏆 Achievements
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Khushbu8130&theme=algolia&no-frame=true&margin-w=10"/>
-</p>
-
----
-
 ## 🌐 Connect With Me
 
 <p align="center">
@@ -69,5 +82,3 @@
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=Khushbu8130&label=Profile%20Views&color=0e75b6&style=flat"/>
 </p>
-
-
