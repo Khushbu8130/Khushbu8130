@@ -28,15 +28,16 @@
   It provides insights such as repository statistics, contribution activity, language usage, and project trends, along with AI-generated summaries.  
   **Tech Stack:** React, Node.js, Express, MongoDB, GitHub API, AI APIs  
   🔗 GitHub: https://github.com/Khushbu8130/github-project-analyzer  
-  🌐 Live: https://github-project-analyzer-2.onrender.com  
+  🌐 Live: https://github-project-analyzer-2.onrender.com/
 
 
 - 🔹 **PDF Toolkit Web App**  
   A MERN stack application for efficient document management, allowing users to **compress, convert, and merge PDF files** using external APIs.  
   It offers a simple interface for handling multiple file operations with optimized performance.  
   **Tech Stack:** React, Node.js, Express, MongoDB, Convert API  
-  🔗 GitHub: https://github.com/Khushbu8130/YOUR-REPO-NAME  
-  🌐 Live: https://your-live-link-here  
+  🔗 GitHub: https://github.com/Khushbu8130/ProtonPDF 
+  🌐 Live: https://protonpdf.onrender.com/
+ 
 
 ---
 
