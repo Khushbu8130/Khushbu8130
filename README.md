@@ -20,16 +20,23 @@
 
 ---
 
+
 ## 🚀 Featured Projects
 
 - 🔹 **GitHub Project Analyzer**  
-  MERN + AI based app to analyze GitHub profiles and generate insights  
+  A MERN + AI powered web application that fetches real-time data from the GitHub API and analyzes developer profiles.  
+  It provides insights such as repository statistics, contribution activity, language usage, and project trends, along with AI-generated summaries.  
+  **Tech Stack:** React, Node.js, Express, MongoDB, GitHub API, AI APIs  
+  🔗 GitHub: https://github.com/Khushbu8130/github-project-analyzer  
+  🌐 Live: https://github-project-analyzer-2.onrender.com  
 
-- 🔹 **BookHavan**  
-  MERN stack platform to explore and download engineering books  
 
-- 🔹 **PDF Compressor Web App**  
-  Built using MERN + ILovePDF API for efficient PDF compression  
+- 🔹 **PDF Toolkit Web App**  
+  A MERN stack application for efficient document management, allowing users to **compress, convert, and merge PDF files** using external APIs.  
+  It offers a simple interface for handling multiple file operations with optimized performance.  
+  **Tech Stack:** React, Node.js, Express, MongoDB, Convert API  
+  🔗 GitHub: https://github.com/Khushbu8130/YOUR-REPO-NAME  
+  🌐 Live: https://your-live-link-here  
 
 ---
 
